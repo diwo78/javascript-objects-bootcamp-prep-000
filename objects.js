@@ -5,6 +5,5 @@ function updatePlaylist (playlist,artistName,songTitle){
 }
 
 function removeFromPlaylist (playlist,artistName){
-   return delete playlist.ruby
-  
+   return delete playlist.ruby;
 }
